@@ -58,7 +58,7 @@ class SettingsView extends StatelessWidget {
                   children: [
                     Text('Version: 1.0.0'),
                     SizedBox(height: 8),
-                    Text('Made with ❤️ by Team Tech Tetra'),
+                    Text('Made with ❤️ by kumarjit'),
                     SizedBox(height: 16),
                   ],
                 ),

@@ -369,7 +369,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
                   // Made with love
                   const Text(
-                    'Made with ❤️ by team tech tetra',
+                    'Made with ❤️ by kumarjit',
                     textAlign: TextAlign.center,
                     style: TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
                   ),
